@@ -1,0 +1,16 @@
+C:\Users\MR.AGHAYEV\source\repos\KursIsiVb\KursIsiVb\bin\Debug\KursIsiVb.exe.config
+C:\Users\MR.AGHAYEV\source\repos\KursIsiVb\KursIsiVb\bin\Debug\KursIsiVb.exe
+C:\Users\MR.AGHAYEV\source\repos\KursIsiVb\KursIsiVb\bin\Debug\KursIsiVb.pdb
+C:\Users\MR.AGHAYEV\source\repos\KursIsiVb\KursIsiVb\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\MR.AGHAYEV\source\repos\KursIsiVb\KursIsiVb\obj\Debug\KursIsiVb.Form1.resources
+C:\Users\MR.AGHAYEV\source\repos\KursIsiVb\KursIsiVb\obj\Debug\KursIsiVb.Properties.Resources.resources
+C:\Users\MR.AGHAYEV\source\repos\KursIsiVb\KursIsiVb\obj\Debug\KursIsiVb.csproj.GenerateResource.Cache
+C:\Users\MR.AGHAYEV\source\repos\KursIsiVb\KursIsiVb\obj\Debug\KursIsiVb.csproj.CoreCompileInputs.cache
+C:\Users\MR.AGHAYEV\source\repos\KursIsiVb\KursIsiVb\obj\Debug\KursIsiVb.exe
+C:\Users\MR.AGHAYEV\source\repos\KursIsiVb\KursIsiVb\obj\Debug\KursIsiVb.pdb
+C:\Users\MR.AGHAYEV\source\repos\KursIsiVb\KursIsiVb\obj\Debug\KursIsiVb.FrmVaqonİnfoNo.resources
+C:\Users\MR.AGHAYEV\source\repos\KursIsiVb\KursIsiVb\obj\Debug\KursIsiVb.FrmIsciInfo.resources
+C:\Users\MR.AGHAYEV\source\repos\KursIsiVb\KursIsiVb\obj\Debug\KursIsiVb.FrmTemirInfo.resources
+C:\Users\MR.AGHAYEV\source\repos\KursIsiVb\KursIsiVb\obj\Debug\KursIsiVb.Sorgular.resources
+C:\Users\MR.AGHAYEV\source\repos\KursIsiVb\KursIsiVb\obj\Debug\KursIsiVb.csprojAssemblyReference.cache
+C:\Users\MR.AGHAYEV\source\repos\KursIsiVb\KursIsiVb\obj\Debug\KursIsiVb.csproj.CopyComplete
